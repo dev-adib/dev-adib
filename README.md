@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev-adib
-- 👀 I’m a Software Engineer who is willing to grow as a Backend Engineer
+- 👀 I’m a Software Engineer who is looking to grow as a Backend Developer
 - 🌱 I’m currently learning JavaScript
 - 📫 Read out to me @ adeojoibrahim10@gmail.com
 
